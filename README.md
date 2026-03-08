@@ -1,79 +1,81 @@
-# AULAHUB
+# AULAHUBMOVIL — Android
 
-> Plataforma educativa web con versión móvil nativa para Android.
+> Versión móvil nativa de la plataforma educativa AULAHUB para Android.
 
 ---
 
 ## 🇲🇽 Español
 
 ### Descripción
-Plataforma educativa desarrollada en JavaScript para gestión de materias, alumnos y actividades académicas. Cuenta con una versión móvil nativa para Android desarrollada en Java (AULAHUBMOVIL).
+Aplicación móvil nativa para Android de la plataforma educativa AULAHUB. Desarrollada en Java con Android Studio para gestión de materias, alumnos y actividades académicas.
 
 ### Tecnologías
-**Web:**
-- JavaScript
-- HTML
-- CSS
-
-**Móvil:**
-- Java (Android)
+- Java
+- Android Studio
+- Android SDK
 
 ### Características
-- Gestión de materias y alumnos
-- Interfaz web intuitiva
-- Versión móvil nativa para Android
+- Gestión de materias y alumnos desde el móvil
+- Interfaz nativa Android
+- Versión web disponible en AULAHUB
 
 ### Instalación
 
+**Requisitos:**
+- Android Studio
+- Android SDK
+
+**Pasos:**
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/Chiripi0rca/AULAHUB.git
-cd AULAHUB
+git clone https://github.com/Chiripi0rca/AULAHUBMOVIL.git
 
-# 2. Abrir index.html en el navegador
+# 2. Abrir el proyecto en Android Studio
+
+# 3. Correr en emulador o dispositivo físico
 ```
 
-### Repositorios
-- Web: [AULAHUB](https://github.com/Chiripi0rca/AULAHUB)
-- Móvil: [AULAHUBMOVIL](https://github.com/Chiripi0rca/AULAHUBMOVIL)
+### Versión web relacionada
+[AULAHUB](https://github.com/Chiripi0rca/AULAHUB)
 
 ### Autor
-Ricardo Ramos Puga— [GitHub](https://github.com/Chiripi0rca)
+Ricardo Ramos Puga — [GitHub](https://github.com/Chiripi0rca)
 
 ---
 
 ## 🇺🇸 English
 
 ### Description
-Educational platform built in JavaScript for managing subjects, students and academic activities. Includes a native Android mobile version built in Java (AULAHUBMOVIL).
+Native Android mobile app for the AULAHUB educational platform. Built in Java with Android Studio for managing subjects, students and academic activities.
 
 ### Tech Stack
-**Web:**
-- JavaScript
-- HTML
-- CSS
-
-**Mobile:**
-- Java (Android)
+- Java
+- Android Studio
+- Android SDK
 
 ### Features
-- Subject and student management
-- Intuitive web interface
-- Native Android mobile version
+- Manage subjects and students from mobile
+- Native Android interface
+- Web version available at AULAHUB
 
 ### Setup
 
+**Requirements:**
+- Android Studio
+- Android SDK
+
+**Steps:**
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Chiripi0rca/AULAHUB.git
-cd AULAHUB
+git clone https://github.com/Chiripi0rca/AULAHUBMOVIL.git
 
-# 2. Open index.html in your browser
+# 2. Open the project in Android Studio
+
+# 3. Run on emulator or physical device
 ```
 
-### Repositories
-- Web: [AULAHUB](https://github.com/Chiripi0rca/AULAHUB)
-- Mobile: [AULAHUBMOVIL](https://github.com/Chiripi0rca/AULAHUBMOVIL)
+### Related Web App
+[AULAHUB](https://github.com/Chiripi0rca/AULAHUB)
 
 ### Author
-Ricardo Ramos Puga — [GitHub](https://github.com/Chiripi0rca)
+Ricardo Ramos Puga— [GitHub](https://github.com/Chiripi0rca)
